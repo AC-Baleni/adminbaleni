@@ -6,6 +6,7 @@ body{
   "sidebar main"
   "sidebar footer";
 }
+// Life after the rainbow
 nav{
   grid-area: navbar;
 }
